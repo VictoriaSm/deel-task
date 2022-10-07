@@ -1,3 +1,6 @@
+## Demo
+Open the [github pages](https://victoriasm.github.io/deel-task/) to view result.
+
 ## Available Scripts
 
 In the project directory, you can run:
