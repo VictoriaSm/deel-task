@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deel-task/static/css/main.0ecc4c4f.css",
+    "main.js": "/deel-task/static/js/main.614cf914.js",
+    "index.html": "/deel-task/index.html",
+    "main.0ecc4c4f.css.map": "/deel-task/static/css/main.0ecc4c4f.css.map",
+    "main.614cf914.js.map": "/deel-task/static/js/main.614cf914.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ecc4c4f.css",
+    "static/js/main.614cf914.js"
+  ]
+}
