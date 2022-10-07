@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/deel-task/static/css/main.c18949f2.css",
+    "main.css": "/deel-task/static/css/main.9ca07709.css",
     "main.js": "/deel-task/static/js/main.614cf914.js",
     "index.html": "/deel-task/index.html",
-    "main.c18949f2.css.map": "/deel-task/static/css/main.c18949f2.css.map",
+    "main.9ca07709.css.map": "/deel-task/static/css/main.9ca07709.css.map",
     "main.614cf914.js.map": "/deel-task/static/js/main.614cf914.js.map"
   },
   "entrypoints": [
-    "static/css/main.c18949f2.css",
+    "static/css/main.9ca07709.css",
     "static/js/main.614cf914.js"
   ]
 }
