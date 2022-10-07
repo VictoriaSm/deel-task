@@ -1,0 +1,19 @@
+.Option {
+  padding: 8px 12px;
+  line-height: 14px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.Option span {
+  background-color: var(--yellow);
+}
+
+.Option:hover {
+  background-color: var(--greyLight);
+}
+
+.Option__select {
+  background-color: var(--greyLight);
+}
